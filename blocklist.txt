@@ -231,3 +231,4 @@
 ||cyberpolice.com^
 ||cyberpolice.org^
 ||cyberpolice.net^
+||googleapis.cn^
